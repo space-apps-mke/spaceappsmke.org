@@ -29,7 +29,7 @@ lang: en-us # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title: October 18–20, 2019
-  text: NASA’s Space Apps challenge is 48 hours to spark innovation on Nasa challenges that benefit missions in space and life on Earth...in Milwaukee! Oct 18-20
+  text: Space Apps is an international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and others in cities around the world, where teams engage with NASA’s free and open data to address real-world problems on Earth and in space. Space Apps 2018 included over 18,000 participants at more than 200 events in 75 countries. For the first time, we are bringing it here to Milwaukee!
 # - displayed at the bottom
 closing-head: Space Apps Milwaukee  
 closing-para: The Countdown begins
