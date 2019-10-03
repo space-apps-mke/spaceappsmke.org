@@ -29,7 +29,7 @@ lang: en-us # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title: October 19, 2019
-  text: Space Apps is an international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and others in cities around the world, where teams engage with NASA’s free and open data to address real-world problems on Earth and in space. Space Apps 2018 included over 18,000 participants at more than 200 events in 75 countries. For the first time, we are bringing it here to Milwaukee!
+  text: Space Apps is an international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and others in cities around the world, where teams engage with NASA’s free and open data to address real-world problems on Earth and in space. Space Apps 2018 included over 18,000 participants at more than 200 events in 75 countries. For the first time, we are bringing it here to Milwaukee! <a href="https://2019.spaceappschallenge.org/locations/milwaukee-wi/" target="_blank">Register today</a>
 # - displayed at the bottom
 closing-head: Space Apps Milwaukee  
 closing-para: The Countdown begins
